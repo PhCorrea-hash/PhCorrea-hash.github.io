@@ -94,5 +94,29 @@
 		"descricao": "Divulgação de informações a respeito de um buraco negro e atrair potênciais interessados para visitar o observatório",
 		"tamanho1": 1080,
 		"tamanho2": 1080
+	},
+	{
+		"titulo": "Post para status do WhatsApp",
+		"alt": "Post para status do WhatsApp",
+		"imagem": "resp1.png",
+		"descricao": "Responder as perguntas mais frequentes de clientes em busca da conclusão dos estudos por supletivo",
+		"tamanho1": 1080,
+		"tamanho2": 1920
+	},
+	{
+		"titulo": "Post para status do WhatsApp",
+		"alt": "Post para status do WhatsApp",
+		"imagem": "resp2.png",
+		"descricao": "Responder as perguntas mais frequentes de clientes em busca da conclusão dos estudos por supletivo",
+		"tamanho1": 1080,
+		"tamanho2": 1920
+	},
+	{
+		"titulo": "Post para status do WhatsApp",
+		"alt": "Post para status do WhatsApp",
+		"imagem": "resp3.png",
+		"descricao": "Responder as perguntas mais frequentes de clientes em busca da conclusão dos estudos por supletivo",
+		"tamanho1": 1080,
+		"tamanho2": 1920
 	}
-]
+] 
