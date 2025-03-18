@@ -3,7 +3,7 @@
         "imagem": "./assets/imgs/NOITE DOS SOLTEIROS.webp",
         "titulo": "NOITE DOS SOLTEIROS",
         "data": "18/03/2025",
-        "local": "",
+        "local": "Santotini",
         "descricao": "VÉSPERA DE FERIADO - NOITE DOS SOLTEIROS! - OPEN BAR + BOOM Shot de Tequila Night e Sunset! ❤️‍🔥",
         "link": "https://zedoingresso.com.br/evento/2786/VESP--DE-FERIADO---NOITE-DOS-SOLTEIROS---OPEN-BAR------18-03-2025"
     },
@@ -12,7 +12,7 @@
         "imagem": "https://phcorrea-hash.github.io/assets/imgs/barzin-vespera.webp",
         "titulo": "Terça Véspera de Feriado no Barzin -- Nosso Encontro",
         "data": "18/03/2025",
-        "local": "",
+        "local": "Barzin",
         "descricao": "Terça Véspera de Feriado temos encontro marcado no Barzin com o Grupo Nosso Encontro e DJ Dagoo",
         "link": "https://zedoingresso.com.br/evento/2794/Terca-Vespera-de-Feriado-no-Barzin-18-03-18-03-2025"
     },
@@ -21,7 +21,7 @@
         "imagem": "https://phcorrea-hash.github.io/assets/imgs/vesperaDeFeriado-OficialJk.webp",
         "titulo": "BORA PRO OFICIAL JK?😎",
         "data": "18/03/2025",
-        "local": "",
+        "local": "Oficial JK",
         "descricao": "Terça Véspera de Feriado no oficial JK com Dj Guilherme Corrêa e Dj Divic",
         "link": "https://zedoingresso.com.br/evento/2799/BORA-PRO-OFICIAL-JK----18-03-2025"
     },
@@ -30,8 +30,62 @@
         "imagem": "https://phcorrea-hash.github.io/assets/imgs/taNaGaiola-Mixed.webp",
         "titulo": "TA NA GAIOLA - O VERDADEIRO BAILE FUNK DA MIXED",
         "data": "18/03/2025",
-        "local": "",
+        "local": "Mixed",
         "descricao": "Terça Véspera de Feriado tem O VERDADEIRO BAILE FUNK DA MIXED",
         "link": "https://zedoingresso.com.br/evento/2743/TA-NA-GAIOLA---O-VERDADEIRO-BAILE-FUNK-DA-MIXED-18-03-2025"
+    },
+
+    {
+        "imagem": "https://phcorrea-hash.github.io/assets/imgs/barDaVarzea-19.webp",
+        "titulo": "Lançamento áudio visual Nega do Balaio - Candeeiro",
+        "data": "19/03/2025",
+        "local": "Bar da Várzea",
+        "descricao": "Candeeiro traz novamente pra Rio Preto o sambista carioca Binho Sá para lançamento do seu áudio visual, Nega do Balaio. ",
+        "link": "https://zedoingresso.com.br/evento/2693/Lancamento-audio-visual-Nega-do-Balaio---Candeeiro-19-03-2025"
+    },
+
+    {
+        "imagem": "https://phcorrea-hash.github.io/assets/imgs/quintaOpen-JK-20.webp",
+        "titulo": "QUINTA OPEM OFICIAL JK 🍷🍸🥂🍻",
+        "data": "20/03/2025",
+        "local": "Oficial JK",
+        "descricao": "Cerveja Antarctica Boa, Cerveja Budweiser, Coca Cola, Fanta, Sprite e Poty, Energetico Baly Sabores, Vodka e Vodka Sabores, Caipirinha de Limão ou Morango, Gin, Gin Tropical, Gin Melancita, Tequila Tequiloka, Água de Copinho",
+        "link": "https://zedoingresso.com.br/evento/2798/QUINTA-OPEM-OFICIAL-JK----------20-03-2025"
+    },
+
+    {
+        "imagem": "https://phcorrea-hash.github.io/assets/imgs/naileDosBigode.webp",
+        "titulo": "BAILE DOS BIGODE - MC NEGAO ORIGINAL EM RIO PRETO",
+        "data": "21/03/2025",
+        "local": "Mixed",
+        "descricao": "TA RAUL HEIN BIGODE ??!! O FENOMENO DO FUNK EM SJ RIO PRETO !! BAILE DOS BIGODE !!! MC NEGAO ORIGINAL CONFIRMADO !",
+        "link": "https://zedoingresso.com.br/evento/2764/BAILE-DOS-BIGODE---MC-NEGAO-ORIGINAL-21-03-2025"
+    },
+
+    {
+        "imagem": "https://phcorrea-hash.github.io/assets/imgs/farraDoBarto.webp",
+        "titulo": "FARRA DO BARTO",
+        "data": "22/03/2025",
+        "local": "Bartolomeu JK",
+        "descricao": "Puta Farra sabado no Barto JK",
+        "link": "https://zedoingresso.com.br/evento/2802/FARRA-DO-BARTO-22-03-2025"
+    },
+
+    {
+        "imagem": "https://phcorrea-hash.github.io/assets/imgs/funkChic.webp",
+        "titulo": "Funk Chic",
+        "data": "22/03/2025",
+        "local": "Mixed",
+        "descricao": "Venha curtir essa noite incrível com muita música boa e energia contagiante! 🎉 #FunkChic #DJMiller #VemPraFesta #TMEventos",
+        "link": "https://zedoingresso.com.br/evento/2590/FUNK-CHIC-22-03-2025"
+    },
+
+    {
+        "imagem": "https://phcorrea-hash.github.io/assets/imgs/resenhaComEmbaixador.webp",
+        "titulo": "RESENHA COM EMBAIXADOR NA GARDEN",
+        "data": "23/03/2025",
+        "local": "Garden Club",
+        "descricao": "Se liga nessa novidade que vai sacudir seus domingos! No dia 23 de março, a partir das 18h, vem aí um evento que promete muita música boa, energia contagiante e aquela resenha que só o Garden Club sabe proporcionar! 🍻🎶",
+        "link": "https://zedoingresso.com.br/evento/2774/RESENHA-COM-EMBAIXADOR-NA-GARDEN-23-03-2025"
     }
 ]
