@@ -3,9 +3,10 @@
         "imagem": "./assets/imgs/NOITE DOS SOLTEIROS.webp",
         "titulo": "NOITE DOS SOLTEIROS",
         "data": "18/03/2025",
-        "local": "Santotini",
+        "local": "Santorini",
         "descricao": "VÉSPERA DE FERIADO - NOITE DOS SOLTEIROS! - OPEN BAR + BOOM Shot de Tequila Night e Sunset! ❤️‍🔥",
-        "link": "https://zedoingresso.com.br/evento/2786/VESP--DE-FERIADO---NOITE-DOS-SOLTEIROS---OPEN-BAR------18-03-2025"
+        "link": "https://zedoingresso.com.br/evento/2786/VESP--DE-FERIADO---NOITE-DOS-SOLTEIROS---OPEN-BAR------18-03-2025",
+        "cidade": "São José do Rio Preto"
     },
 
     {
@@ -14,7 +15,8 @@
         "data": "18/03/2025",
         "local": "Barzin",
         "descricao": "Terça Véspera de Feriado temos encontro marcado no Barzin com o Grupo Nosso Encontro e DJ Dagoo",
-        "link": "https://zedoingresso.com.br/evento/2794/Terca-Vespera-de-Feriado-no-Barzin-18-03-18-03-2025"
+        "link": "https://zedoingresso.com.br/evento/2794/Terca-Vespera-de-Feriado-no-Barzin-18-03-18-03-2025",
+        "cidade": "São José do Rio Preto"
     },
 
     {
@@ -23,7 +25,8 @@
         "data": "18/03/2025",
         "local": "Oficial JK",
         "descricao": "Terça Véspera de Feriado no oficial JK com Dj Guilherme Corrêa e Dj Divic",
-        "link": "https://zedoingresso.com.br/evento/2799/BORA-PRO-OFICIAL-JK----18-03-2025"
+        "link": "https://zedoingresso.com.br/evento/2799/BORA-PRO-OFICIAL-JK----18-03-2025",
+        "cidade": "São José do Rio Preto"
     },
 
     {
@@ -32,7 +35,8 @@
         "data": "18/03/2025",
         "local": "Mixed",
         "descricao": "Terça Véspera de Feriado tem O VERDADEIRO BAILE FUNK DA MIXED",
-        "link": "https://zedoingresso.com.br/evento/2743/TA-NA-GAIOLA---O-VERDADEIRO-BAILE-FUNK-DA-MIXED-18-03-2025"
+        "link": "https://zedoingresso.com.br/evento/2743/TA-NA-GAIOLA---O-VERDADEIRO-BAILE-FUNK-DA-MIXED-18-03-2025",
+        "cidade": "São José do Rio Preto"
     },
 
     {
@@ -41,7 +45,8 @@
         "data": "19/03/2025",
         "local": "Bar da Várzea",
         "descricao": "Candeeiro traz novamente pra Rio Preto o sambista carioca Binho Sá para lançamento do seu áudio visual, Nega do Balaio. ",
-        "link": "https://zedoingresso.com.br/evento/2693/Lancamento-audio-visual-Nega-do-Balaio---Candeeiro-19-03-2025"
+        "link": "https://zedoingresso.com.br/evento/2693/Lancamento-audio-visual-Nega-do-Balaio---Candeeiro-19-03-2025",
+        "cidade": "São José do Rio Preto"
     },
 
     {
@@ -50,7 +55,8 @@
         "data": "20/03/2025",
         "local": "Oficial JK",
         "descricao": "Cerveja Antarctica Boa, Cerveja Budweiser, Coca Cola, Fanta, Sprite e Poty, Energetico Baly Sabores, Vodka e Vodka Sabores, Caipirinha de Limão ou Morango, Gin, Gin Tropical, Gin Melancita, Tequila Tequiloka, Água de Copinho",
-        "link": "https://zedoingresso.com.br/evento/2798/QUINTA-OPEM-OFICIAL-JK----------20-03-2025"
+        "link": "https://zedoingresso.com.br/evento/2798/QUINTA-OPEM-OFICIAL-JK----------20-03-2025",
+        "cidade": "São José do Rio Preto"
     },
 
     {
@@ -59,7 +65,8 @@
         "data": "21/03/2025",
         "local": "Mixed",
         "descricao": "TA RAUL HEIN BIGODE ??!! O FENOMENO DO FUNK EM SJ RIO PRETO !! BAILE DOS BIGODE !!! MC NEGAO ORIGINAL CONFIRMADO !",
-        "link": "https://zedoingresso.com.br/evento/2764/BAILE-DOS-BIGODE---MC-NEGAO-ORIGINAL-21-03-2025"
+        "link": "https://zedoingresso.com.br/evento/2764/BAILE-DOS-BIGODE---MC-NEGAO-ORIGINAL-21-03-2025",
+        "cidade": "São José do Rio Preto"
     },
 
     {
@@ -68,7 +75,8 @@
         "data": "22/03/2025",
         "local": "Bartolomeu JK",
         "descricao": "Puta Farra sabado no Barto JK",
-        "link": "https://zedoingresso.com.br/evento/2802/FARRA-DO-BARTO-22-03-2025"
+        "link": "https://zedoingresso.com.br/evento/2802/FARRA-DO-BARTO-22-03-2025",
+        "cidade": "São José do Rio Preto"
     },
 
     {
@@ -77,7 +85,8 @@
         "data": "22/03/2025",
         "local": "Mixed",
         "descricao": "Venha curtir essa noite incrível com muita música boa e energia contagiante! 🎉 #FunkChic #DJMiller #VemPraFesta #TMEventos",
-        "link": "https://zedoingresso.com.br/evento/2590/FUNK-CHIC-22-03-2025"
+        "link": "https://zedoingresso.com.br/evento/2590/FUNK-CHIC-22-03-2025",
+        "cidade": "São José do Rio Preto"
     },
 
     {
@@ -86,6 +95,37 @@
         "data": "23/03/2025",
         "local": "Garden Club",
         "descricao": "Se liga nessa novidade que vai sacudir seus domingos! No dia 23 de março, a partir das 18h, vem aí um evento que promete muita música boa, energia contagiante e aquela resenha que só o Garden Club sabe proporcionar! 🍻🎶",
-        "link": "https://zedoingresso.com.br/evento/2774/RESENHA-COM-EMBAIXADOR-NA-GARDEN-23-03-2025"
+        "link": "https://zedoingresso.com.br/evento/2774/RESENHA-COM-EMBAIXADOR-NA-GARDEN-23-03-2025",
+        "cidade": "São José do Rio Preto"
+    },
+
+    {
+        "imagem": "https://phcorrea-hash.github.io/assets/imgs/nightClub-04.webp",
+        "titulo": "NIGHT CLUB",
+        "data": "04/04/2025",
+        "local": "Anexo Oculto",
+        "descricao": "A sua noite dos Anos 2000 está de volta com os DJS ''EINSTEIN + MAURICIO MICELLI + MANCHA",
+        "link": "https://zedoingresso.com.br/evento/2797/NIGHT-CLUB-04-04-2025",
+        "cidade": "São José do Rio Preto"
+    },
+
+    {
+        "imagem": "https://phcorrea-hash.github.io/assets/imgs/vibeClub-04.webp",
+        "titulo": "VIBE CLUB - DAFT HILL",
+        "data": "05/04/2025",
+        "local": "Garden Club",
+        "descricao": "VIBE CLUB -- DAFT HILL - LONG SET 2H -- GARDEN CLUB ",
+        "link": "https://zedoingresso.com.br/evento/2769/VIBE-CLUB---DAFT-HILL-05-04-2025",
+        "cidade": "São José do Rio Preto"
+    },
+
+    {
+        "imagem": "https://phcorrea-hash.github.io/assets/imgs/mcMarks.webp",
+        "titulo": "MC MARKS-RIO PRETO",
+        "data": "12/04/2025",
+        "local": "Mixed",
+        "descricao": "Alô, Rio Preto! Dia 12/04, a Mixed Club vai tremer com o brabo MC MARKS no comando! Se prepara pra cantar junto 'Deus é por nós', mandar aquela reflexão com 'Coração de Gelo' e sentir a energia de 'Quebra de Farsa' no baile mais insano da cidade!",
+        "link": "https://zedoingresso.com.br/evento/2709/MC-MARKS-RIO-PRETO-12-04-2025",
+        "cidade": "São José do Rio Preto"
     }
 ]
